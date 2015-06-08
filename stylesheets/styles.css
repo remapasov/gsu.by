@@ -9,6 +9,10 @@ html {
   background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
 }
 
+h3 {
+  text-align: center;
+}
+}
 .mainImage {
   padding: auto;
 }
